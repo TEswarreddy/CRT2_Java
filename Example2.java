@@ -8,6 +8,7 @@ public class Example2
         int a=sc.nextInt();
         int b=sc.nextInt();
         int c=sc.nextInt();
+        sc.close();
         if(a>b && a>c)
         {
             System.out.println(a+" is larger");

@@ -8,6 +8,7 @@ public class Example3
         // int a=sc.nextInt();
         // int b=sc.nextInt();
         // int c=sc.nextInt();
+        sc.close();
         int a=1;
         int b=9;
         int c=3;

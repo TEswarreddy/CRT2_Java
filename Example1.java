@@ -5,6 +5,7 @@ class Example1
     {
         Scanner sc=new Scanner(System.in);
         int age=sc.nextInt();
+        sc.close();
         if(age>18)
         {
             if(age>=21)
